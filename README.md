@@ -1,9 +1,9 @@
 ﻿# STM32F103C-Quadrotor-
 ## 
-Hardware
+- Hardware
   - Board: STM32F103C8T6 (Blue Pill)
   - RF: nRF24L01
-Software
+- Software
   - Programming Language: C
   - Platform: Arduino
 ## Demo
